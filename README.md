@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crountaris
 - 👀 I’m interested in Physics, Data Analysis, AI and all things in technology
-- 🌱 I’m currently finishing my Bachelor's degree in Physics and learning about Data Analysis and Ai on the side
+- 🌱 I’m a Physicist and I'm attending my Masters in Data Analysis 
 - 💞️ I’m looking to collaborate on beginners projects and learning opportunities
 - 📫 How to reach me: crountaris@gmail.com 
 
